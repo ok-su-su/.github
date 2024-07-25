@@ -5,6 +5,9 @@
 <a href="https://play.google.com/store/apps/details?id=com.oksusu.susu" target="_blank">
 <img style="margin-right: 0px" src="https://github.com/YAPP-Github/oksusu-susu-android/assets/69582122/dc6a36dc-7317-48fc-8acb-fbf998fadb37" width="150" />
 </a>
+<a href="https://apps.apple.com/kr/app/%EC%88%98%EC%88%98-susu/id6503701515?l=en-GB" target="_blank">
+<img style="margin-right: 0px" src="https://github.com/YAPP-Github/oksusu-susu-android/assets/69582122/dc6a36dc-7317-48fc-8acb-fbf998fadb37" width="150" />
+</a>
 <br>
 <br>
 
