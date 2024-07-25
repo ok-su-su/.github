@@ -6,7 +6,7 @@
 <img style="margin-right: 0px" src="https://github.com/YAPP-Github/oksusu-susu-android/assets/69582122/dc6a36dc-7317-48fc-8acb-fbf998fadb37" width="150" />
 </a>
 <a href="https://apps.apple.com/kr/app/%EC%88%98%EC%88%98-susu/id6503701515?l=en-GB" target="_blank">
-<img style="margin-right: 0px" src="https://developer.apple.com/news/images/download-on-the-app-store-badge.png" width="150" height="30" />
+<img style="margin-right: 0px" src="https://developer.apple.com/news/images/download-on-the-app-store-badge.png" width="150" height="70" />
 </a>
 <br>
 <br>
